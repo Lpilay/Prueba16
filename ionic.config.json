@@ -1,0 +1,7 @@
+{
+  "name": "myfirt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
